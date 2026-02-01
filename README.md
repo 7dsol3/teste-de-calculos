@@ -2,7 +2,7 @@
 
 <img width="1920" height="1080" alt="image_2026-01-11_20-18-36" src="https://github.com/user-attachments/assets/3a5cc1e1-325f-42d7-974a-5e68a007cc68" />
 
-
+[![Watch the video](https://img.youtube.com/vi/7tevw1IRc88/maxresdefault.jpg)](https://www.youtube.com/watch?v=7tevw1IRc88)
 
 
 # Projeto: Unificação Dinâmica da Existência (UDE)
@@ -245,5 +245,6 @@ Para questões sobre o código ou teoria, consulte a documentação científica 
 ---
 
 **Nota Final**: Este código representa uma implementação computacional de uma proposta teórica de unificação. Para publicação científica, são necessários refinamentos adicionais, validação rigorosa e comparação com dados observacionais.
+
 
 
